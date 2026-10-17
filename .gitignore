@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+# osxphotos export database and logs (machine-specific state)
+state/
+logs/
