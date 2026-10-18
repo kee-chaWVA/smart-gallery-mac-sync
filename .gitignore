@@ -4,3 +4,4 @@ __pycache__/
 # osxphotos export database and logs (machine-specific state)
 state/
 logs/
+bin/
